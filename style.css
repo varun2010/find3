@@ -1,0 +1,51 @@
+
+#copy_right_footer{
+    font-size: large;
+    line-height: 2;
+    margin-bottom: 0;
+    position: fixed;
+    bottom:0;
+    color:turquoise;
+    width: 100%;
+    text-align: center;
+    background-color:orangered;
+}
+
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+.heading
+{
+font-size: 25px;
+width: 100%;
+color:blueviolet;
+font-weight: 700;
+margin: 0px;
+}
+.heading:hover{
+    color:rebeccapurple;
+}
+#status , #object_status,#object_name
+{
+font-size: 20px;
+}
+#f{
+    font-size: 22px;
+}
+h3{
+    font-weight: bolder;
+    background-color: goldenrod;
+    width:fit-content;
+    padding: 5px;
+    border-radius: 5px;
+}
+canvas
+{
+box-shadow: 5px 5px 5px yellow;
+border-radius: 10px;
+margin-top: 165px;
+border:5px solid blue;
+}
